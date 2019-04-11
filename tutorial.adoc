@@ -1,17 +1,17 @@
-=
+= Learning Python with Jupyter
 
 Author: RJ Parks
 
-== Intro
+== Context
 
-Describe the goals and purpose of the tutorial here. You can change "Intro" to something meaningful about your tutorial, such as "About Wireshark Filters."
+We will be using Jupyter to help show people who are learning python by having it run in a web browser
 
 == Prerequisites
 
 The "*" is a bulleted list. If this can only be done on a Windows computer, using Packet Tracer, or any other technology, list those prerequisites here.
 
-* VirtualBox
-* Kali Virtual Machine
+* Python 3.7
+* https://www.anaconda.com/distribution/[Anaconda Distribution]
 
 == Instructions
 
