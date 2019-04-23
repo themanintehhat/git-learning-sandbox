@@ -8,9 +8,8 @@ We will be using Jupyter to help show people who are learning python by having i
 
 == Prerequisites
 
-The "*" is a bulleted list. If this can only be done on a Windows computer, using Packet Tracer, or any other technology, list those prerequisites here.
-
-* Python 3.7
+* https://www.python.org/downloads/[Python 3.7] 
+or
 * https://www.anaconda.com/distribution/[Anaconda Distribution]
 
 == Instructions
