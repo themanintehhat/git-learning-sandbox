@@ -15,9 +15,11 @@ Jupyter uses the Anaconda Distribution but because it is created with python it 
 
 == Instructions
 
-Guide the person through the steps. Starting a line with a period is an automatically numbered list.
+. Installation.
+*Python 3.7
+	
+*Anaconda
 
-. Step one.
 . Step two.
 . Step three. Use "+" and the  backtick character to add additional command.
 +
