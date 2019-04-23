@@ -14,11 +14,11 @@ We will be using Jupyter to help show people who are learning python by having i
 Jupyter uses the Anaconda Distribution but because it is created with python it will work with a command line interface.
 
 == Instructions
-
 . Installation.
-*Python 3.7
+
+* Python 3.7
 	
-*Anaconda
+* Anaconda
 
 . Step two.
 . Step three. Use "+" and the  backtick character to add additional command.
