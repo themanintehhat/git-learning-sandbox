@@ -8,9 +8,10 @@ We will be using Jupyter to help show people who are learning python by having i
 
 == Prerequisites
 
-* https://www.python.org/downloads/[Python 3.7] 
-or
-* https://www.anaconda.com/distribution/[Anaconda Distribution]
+* https://www.python.org/downloads/[Python 3.7] or
+* https://www.anaconda.com/distribution/[Anaconda] Distribution
+
+Jupyter uses the Anaconda Distribution but because it is created with python it will work with a command line interface.
 
 == Instructions
 
