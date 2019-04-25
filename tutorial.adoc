@@ -10,6 +10,7 @@ We will be using Jupyter to help show people who are learning python by having i
 
 * https://www.python.org/downloads/[Python 3.7] or
 * https://www.anaconda.com/distribution/[Anaconda] Distribution
+* A python file with edit permissions
 
 Jupyter uses the Anaconda Distribution but because it is created with python it will work with a command line interface.
 
@@ -41,6 +42,12 @@ jupyter notebook
 . Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. 
 +
 image::cmdfiles.jpg[command line links]
++
+here is an example of what you should see when it is launched. +
+image::jupyterweb.jpg[jupyter notebook web interface]
+
+. Using the Notebook
+Once Launched, navigate your C:\\ folder to locate a python file. +
 
 == Reflection
 
