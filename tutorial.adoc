@@ -43,7 +43,8 @@ jupyter notebook
 +
 image::cmdfiles.jpg[command line links]
 +
-here is an example of what you should see when it is launched. +
+here is an example of what you should see when it is launched. 
++
 image::jupyterweb.jpg[jupyter notebook web interface]
 
 . Using the Notebook
