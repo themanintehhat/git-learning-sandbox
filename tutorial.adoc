@@ -16,7 +16,7 @@ Jupyter uses the Anaconda Distribution but because it is created with python it 
 
 == Installation
 
-* Python 3.7
+* Python 3.7 +
 Run the Following Commands:
 ```
 python3 -m pip install --upgrade pip
@@ -27,12 +27,12 @@ Python 2 is supported but not recommended. Python 2 commands are as follow:
 python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
-* Anaconda
+* Anaconda +
 Run the Installer that was downloaded 
 All defaults are fine, feel free to change the path if needed.
 
 == Instructions
-.Step 1
+. Step 1
 
 == Reflection
 
