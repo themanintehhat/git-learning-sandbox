@@ -33,13 +33,14 @@ Run the Installer that was downloaded. +
 All defaults are fine, feel free to change the path if needed.
 
 == Instructions
-. Running Jupyter
+. Running Jupyter. +
 In order to start Jupyter, you will need to launch it from the Terminal or Command Prompt by running the following command: +
 +
 ```
 jupyter notebook
 ```
-. Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. 
+. Running Jupyter Notebooks. +
+Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. 
 +
 image::cmdfiles.jpg[command line links]
 +
@@ -47,13 +48,13 @@ here is an example of what you should see when it is launched.
 +
 image::jupyterweb.jpg[jupyter notebook web interface]
 
-. Using the Notebook
+. Using the Notebook. +
 Once Launched, navigate your C:\\ folder to locate a python file. +
 And open it.
 +
 image::python.jpg[my python file]
 
-. Editing with Jupyter Notebooks
+. Editing with Jupyter Notebooks. +
 Once opened, you can edit your source code right in the interface. 
 
 == Reflection
