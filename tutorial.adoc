@@ -55,7 +55,9 @@ And open it.
 image::python.jpg[my python file]
 
 . Editing with Jupyter Notebooks. +
-Once opened, you can edit your source code right in the interface. 
+Once opened, you can edit your source code right in the interface. +
+You can save by using Control + S or going to the File Menu and clicking save. +
+
 
 == Reflection
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
