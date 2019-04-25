@@ -48,15 +48,14 @@ here is an example of what you should see when it is launched.
 image::jupyterweb.jpg[jupyter notebook web interface]
 
 . Using the Notebook
-Once Launched, navigate your C:\\ folder to locate a python file. 
+Once Launched, navigate your C:\\ folder to locate a python file. +
+And open it.
 +
 image::python.jpg[my python file]
-+
-And open it.
 
-. Editing with Jupyter Notebooks.
+. Editing with Jupyter Notebooks
+Once opened, you can edit your source code right in the interface. 
 
 == Reflection
-
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
 
