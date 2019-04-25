@@ -13,35 +13,26 @@ We will be using Jupyter to help show people who are learning python by having i
 
 Jupyter uses the Anaconda Distribution but because it is created with python it will work with a command line interface.
 
-== Instructions
-. Installation.
+
+== Installation
 
 * Python 3.7
-	
+Run the Following Commands:
+```
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+```
+Python 2 is supported but not recommended. Python 2 commands are as follow:
+```
+python -m pip install --upgrade pip
+python -m pip install jupyter
+```
 * Anaconda
+Run the Installer that was downloaded 
+All defaults are fine, feel free to change the path if needed.
 
-. Step two.
-. Step three. Use "+" and the  backtick character to add additional command.
-+
-```
-sudo su
-```
-. Step four. Use the following syntax to include screenshots or other images. Note that the "+" is used to include additional content under this bullet point.
-+
-image::blue-rectangle.png[]
-. Step five. Compile with the following command:
-+
-```
-asciidoctor-pdf tutorial.adoc
-```
-
-== Challenge
-
-Provide some meaningful ways for the learner to apply their knowledge in a new way.
-
-Notice that a screenshot can be included in a separate paragraph without the "+".
-
-image::blue-rectangle.png[]
+== Instructions
+.Step 1
 
 == Reflection
 
