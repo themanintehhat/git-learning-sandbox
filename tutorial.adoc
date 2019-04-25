@@ -38,7 +38,7 @@ In order to start Jupyter, you will need to launch it from the Terminal or Comma
 jupyter notebook
 ```
 Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. +
-image::cmdfiles.png
+image::cmdfiles.png[]
 
 == Reflection
 
