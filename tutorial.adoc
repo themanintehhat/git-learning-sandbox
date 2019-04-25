@@ -28,11 +28,17 @@ python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
 * Anaconda +
-Run the Installer that was downloaded 
+Run the Installer that was downloaded. +
 All defaults are fine, feel free to change the path if needed.
 
 == Instructions
-. Step 1
+. Running Jupyter
+In order to start Jupyter, you will need to launch it from the Terminal or Command Prompt by running the following command: +
+```
+jupyter notebook
+```
+Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. +
+image::cmdfiles.png
 
 == Reflection
 
