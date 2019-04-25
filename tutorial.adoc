@@ -54,7 +54,8 @@ image::python.jpg[my python file]
 +
 And open it.
 
-. Editing with Jupyter Notebooks
+. Editing with Jupyter Notebooks.
+
 == Reflection
 
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
