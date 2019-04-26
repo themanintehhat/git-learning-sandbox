@@ -49,12 +49,8 @@ here is an example of what you should see when it is launched.
 image::jupyterweb.jpg[jupyter notebook web interface]
 
 == Using the Notebook. +
-* Once Launched, you can navigate your C:\ folder to locate a python file and open it. +
+* Once Launched, you can navigate your C:\ folder to locate a python file and open it, Or create a new Notebook +
 NOTE: if you did not launch jupyter notebook from c:\ folder in your cmd/terminal you can only go up to the folder of it was launched. Nothing above it.
-+
-image::python.jpg[my python file]
-+
-or Create a new Notebook
 +
 image::notebook.jpg[jupyter notebook new]
 
