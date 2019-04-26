@@ -51,7 +51,7 @@ image::jupyterweb.jpg[jupyter notebook web interface]
 == Using the Notebook. +
 Once Launched, you can navigate your C:\ folder to locate a python file and open it, Or create a new Notebook +
 NOTE: if you did not launch jupyter notebook from c:\ folder in your cmd/terminal you can only go up to the folder of it was launched. Nothing above it.
-+
+
 image::notebook.jpg[jupyter notebook new]
 
 Editing existing files with Jupyter. +
@@ -59,10 +59,10 @@ Once opened, you can edit your source code right in the interface. You can save 
 
 Understanding the Notebook. +
 Each notebook has cells. A cell in Jupyter can be viewed as a container. Each container can have as few as one variable or as much as the entire program. +
-+
+
 image::jupytercell.jpg[A Jupyter cell] 
-+
-Each cell can be in one of two modes: +
+
+Each cell can be in one of two modes: 
 * Cell Edit Mode 
 * Notebook Edit Mode
  
