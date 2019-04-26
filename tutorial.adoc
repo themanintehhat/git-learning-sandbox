@@ -62,7 +62,7 @@ image::notebook.jpg[jupyter notebook new]
 Once opened, you can edit your source code right in the interface. You can save by using Control + S or going to the File Menu and clicking save. However to be able to run code in Jupyter, you must make a notebook.
 
 * Understanding the Notebook. +
-Each notebook has cells. 
+Each notebook has cells. +
 +
 image::cell.jpg[jupyter cell]+
 Each cell can be in one of two modes: +
