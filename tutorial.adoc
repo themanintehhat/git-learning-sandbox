@@ -55,7 +55,7 @@ NOTE: if you did not launch jupyter notebook from c:\ folder in your cmd/termina
 image::notebook.jpg[jupyter notebook new]
 
 Editing existing files with Jupyter. +
-Once opened, you can edit your source code right in the interface. You can save by using Control + S or going to the File Menu and clicking save. However to be able to run code in Jupyter, you must make a notebook.
+Once opened, you can edit your source code right in the interface. You can save by using Control + S or going to the File Menu and clicking save. However to be able to run code in Jupyter, you must make a notebook. Make sure to save often!
 
 Understanding the Notebook. +
 Each notebook has cells. A cell in Jupyter can be viewed as a container. Each container can have as few as one variable or as much as the entire program. +
@@ -67,13 +67,14 @@ Each cell can be in one of two modes: +
 * Cell Edit Mode 
 * Notebook Edit Mode
  
-Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. +
-To enable cell edit mode, just click in the cell you wish to edit. A good rule of thumb is to use each container for each def statement as seen in my Rock Paper Scissors 25 program.
+Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. To enable cell edit mode, just click in the cell you wish to edit. A good rule of thumb is to use each container for each def statement as seen in my Rock Paper Scissors 25 program.
 
 image::rps25NB.jpg[RPS25 in Jupyter Notebooks]
 
-
+To run the program inside one cell, enter cell edit mode for that cell, and click run in the tool bar above. To run the entire notebook, click Cell in the toolbar and then Run All.
+Once done you can save and then go to the file menu and click close and halt. That will close the Notebook Server and the tab. To close the Jupyter server either open your cmd/terminal and use Ctrl + C twice or in the Home tab of Jupyter click quit in the left hand corner.
 
 == Reflection
-Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
-
+What other uses could be used besides separation of the "def" statements?
+Would being able to edit collaboratively be helpful or harmful?
+Would you use Jupyter Notebooks for a Project in the future?
