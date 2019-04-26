@@ -75,6 +75,6 @@ To run the program inside one cell, enter cell edit mode for that cell, and clic
 Once done you can save and then go to the file menu and click close and halt. That will close the Notebook Server and the tab. To close the Jupyter server either open your cmd/terminal and use Ctrl + C twice or in the Home tab of Jupyter click quit in the left hand corner.
 
 == Reflection
-What other uses could be used besides separation of the "def" statements?
-Would being able to edit collaboratively be helpful or harmful?
-Would you use Jupyter Notebooks for a Project in the future?
+What other uses could be used besides separation of the "def" statements? +
+Would being able to edit collaboratively be helpful or harmful? +
+Would you use Jupyter Notebooks for a Project in the future? +
