@@ -60,7 +60,8 @@ Once opened, you can edit your source code right in the interface. You can save 
 * Understanding the Notebook. +
 Each notebook has cells. A cell in Jupyter can be viewed as a container. Each container can have as few as one variable or as much as the entire program. +
 +
-image::jupytercell.jpg[a jupyter cell] +
+image::jupytercell.jpg[A Jupyter cell] 
++
 Each cell can be in one of two modes: +
 * Cell Edit Mode 
 * Notebook Edit Mode 
