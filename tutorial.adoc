@@ -9,7 +9,7 @@ We will be using Jupyter to help show people who are learning python by having i
 == Prerequisites
 
 * https://www.python.org/downloads/[Python 3.7] or
-* https://www.anaconda.com/distribution/[Anaconda] Distribution (Reccomended)
+* https://www.anaconda.com/distribution/[Anaconda] Distribution (Recommended)
 * A python file with edit permissions
 
 Jupyter uses the Anaconda Distribution but because it is created with python it will work with the python command line interface.
@@ -60,7 +60,7 @@ Once opened, you can edit your source code right in the interface. You can save 
 * Understanding the Notebook. +
 Each notebook has cells. A cell in Jupyter can be viewed as a container. Each container can have as few as one variable or as much as the entire program. +
 +
-image::cell.jpg[jupyter cell]+
+image::cell.jpg[jupyter cell] +
 Each cell can be in one of two modes: +
 * Cell Edit Mode
 * Notebook Edit Mode
