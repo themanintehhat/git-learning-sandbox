@@ -62,8 +62,8 @@ Each notebook has cells. A cell in Jupyter can be viewed as a container. Each co
 +
 image::jupytercell.jpg[a jupyter cell] +
 Each cell can be in one of two modes: +
-* Cell Edit Mode +
-* Notebook Edit Mode +
+* Cell Edit Mode 
+* Notebook Edit Mode 
 Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. To enable cell edit mode, just click in the cell you wish to edit.
 
 == Reflection
