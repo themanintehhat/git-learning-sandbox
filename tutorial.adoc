@@ -64,7 +64,7 @@ Once opened, you can edit your source code right in the interface. You can save 
 * Understanding the Notebook. +
 Each notebook has cells. +
 +
-image::cell.jpg[jupyter cell]
+image::cell.jpg[jupyter cell]+
 Each cell can be in one of two modes: +
 * Cell Edit Mode
 * Notebook Edit Mode
