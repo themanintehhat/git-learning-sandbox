@@ -67,7 +67,12 @@ Each cell can be in one of two modes: +
 * Cell Edit Mode 
 * Notebook Edit Mode
  
-Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. To enable cell edit mode, just click in the cell you wish to edit.
+Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. +
+To enable cell edit mode, just click in the cell you wish to edit. A good rule of thumb is to use each container for each def statement as seen in my Rock Paper Scissors 25 program.
+
+image::rps25NB.jpg[RPS25 in Jupyter Notebooks]
+
+
 
 == Reflection
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
