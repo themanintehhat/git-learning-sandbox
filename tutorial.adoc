@@ -34,12 +34,12 @@ All defaults are fine, feel free to change the path if needed.
 
 == Start Up
 Starting Jupyter. +
-In order to start Jupyter, you will need to launch it from the Terminal or Command Prompt by running the following command: +
+In order to start Jupyter, you will need to launch it from the Terminal or Command Prompt by running the following command: 
 +
 ```
 jupyter notebook
 ```
-
++
 Once launched, you will need to open a web browser and go to one of the links specified in your cmd/terminal. 
 +
 image::cmdfiles.jpg[command line links]
