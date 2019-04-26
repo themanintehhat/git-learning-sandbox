@@ -71,7 +71,7 @@ Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted 
 
 image::rps25NB.jpg[RPS25 in Jupyter Notebooks]
 
-To run the program inside one cell, enter cell edit mode for that cell, and click run in the tool bar above. To run the entire notebook, click Cell in the toolbar and then Run All.
+To run the program inside one cell, enter cell edit mode for that cell, and click run in the tool bar above. To run the entire notebook, click Cell in the toolbar and then Run All. +
 Once done you can save and then go to the file menu and click close and halt. That will close the Notebook Server and the tab. To close the Jupyter server either open your cmd/terminal and use Ctrl + C twice or in the Home tab of Jupyter click quit in the left hand corner.
 
 == Reflection
