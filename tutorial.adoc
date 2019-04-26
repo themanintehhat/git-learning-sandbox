@@ -63,6 +63,7 @@ Each notebook has cells. A cell in Jupyter can be viewed as a container. Each co
 image::jupytercell.jpg[A Jupyter cell] 
 
 Each cell can be in one of two modes: +
+
 * Cell Edit Mode 
 * Notebook Edit Mode
  
