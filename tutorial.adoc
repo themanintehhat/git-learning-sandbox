@@ -62,12 +62,13 @@ image::notebook.jpg[jupyter notebook new]
 Once opened, you can edit your source code right in the interface. You can save by using Control + S or going to the File Menu and clicking save. However to be able to run code in Jupyter, you must make a notebook.
 
 * Understanding the Notebook. +
-Each notebook has cells. +
+Each notebook has cells. A cell in Jupyter can be viewed as a container. Each container can have as few as one variable or as much as the entire program. +
 +
 image::cell.jpg[jupyter cell]+
 Each cell can be in one of two modes: +
 * Cell Edit Mode
 * Notebook Edit Mode
+Cell Edit mode is denoted by the green bar, where Notebook Edit mode is denoted by a blue bar. You are unable to edit any cell in Notebook Edit Mode. To enable cell edit mode, just click in the cell you wish to edit.
 
 == Reflection
 Provide some thought questions that help the learner make sense of how the tutorial fits in the bigger picture.
